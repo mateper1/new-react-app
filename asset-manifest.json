@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/new-react-app/static/css/main.62612ab4.chunk.css",
+    "main.js": "/new-react-app/static/js/main.ab30ceb0.chunk.js",
+    "main.js.map": "/new-react-app/static/js/main.ab30ceb0.chunk.js.map",
+    "runtime-main.js": "/new-react-app/static/js/runtime-main.9686fb9a.js",
+    "runtime-main.js.map": "/new-react-app/static/js/runtime-main.9686fb9a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/new-react-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d4eeb839.chunk.js": "/new-react-app/static/js/2.d4eeb839.chunk.js",
+    "static/js/2.d4eeb839.chunk.js.map": "/new-react-app/static/js/2.d4eeb839.chunk.js.map",
+    "index.html": "/new-react-app/index.html",
+    "precache-manifest.b97f65510e12e01515d95c6514507e61.js": "/new-react-app/precache-manifest.b97f65510e12e01515d95c6514507e61.js",
+    "service-worker.js": "/new-react-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/new-react-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.62612ab4.chunk.css.map": "/new-react-app/static/css/main.62612ab4.chunk.css.map",
+    "static/js/2.d4eeb839.chunk.js.LICENSE.txt": "/new-react-app/static/js/2.d4eeb839.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/new-react-app/static/media/Potra-E0Ye.06edb304.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9686fb9a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d4eeb839.chunk.js",
+    "static/css/main.62612ab4.chunk.css",
+    "static/js/main.ab30ceb0.chunk.js"
+  ]
+}
